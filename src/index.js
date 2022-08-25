@@ -2,7 +2,8 @@
 import { example } from '@/js/example'
 
 // Test import of an asset
-import webpackLogo from '@/images/webpack-logo.svg'
+import webpackLogo from '@/images/bg_1.jpg'
+import webpackLogo from '@/images/bg_2.png'
 
 // Test import of styles
 import '@/styles/index.scss'
